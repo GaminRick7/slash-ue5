@@ -1,0 +1,30 @@
+# Unreal generated
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/*/
+!Build/Mac/
+Build/Mac/*
+!Build/Mac/Resources/
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# IDE / OS
+.DS_Store
+.idea/
+.vscode/
+*.xcworkspace/
+*.xcodeproj/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+
+# Raw source-art download (glTF/FBX/PNG). The imported .uassets under /Game/NewFolder are what the
+# game uses; the originals are re-downloadable from Quaternius.
+Content/Modular Character Outfits - Fantasy\[Standard\]-2/
+Content/Medieval Village MegaKit\[Standard\]/
+Content/Fantasy Props MegaKit\[Standard\]/
+Content/Bestiary - Dungeon Monsters Kit\[Standard\]/
